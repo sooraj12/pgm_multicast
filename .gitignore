@@ -1,0 +1,7 @@
+__pycache__/
+*.py~
+.env
+.venv/
+media/*
+
+*.lut*
