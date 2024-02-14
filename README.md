@@ -1,1 +1,1 @@
-[text](https://datatracker.ietf.org/doc/html/draft-riechmann-multicast-mail-00)
+https://datatracker.ietf.org/doc/html/draft-riechmann-multicast-mail-00
